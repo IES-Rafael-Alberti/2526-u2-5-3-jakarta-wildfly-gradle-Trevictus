@@ -1,0 +1,14 @@
+.git
+.gitignore
+README.md
+*.md
+.idea
+.vscode
+*.iml
+.gradle
+.DS_Store
+Thumbs.db
+docs/
+.env
+.env.*
+
